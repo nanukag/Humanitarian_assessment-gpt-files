@@ -59,4 +59,4 @@ The resources in this repository are intended for professional use in humanitari
 
 ---
 
-*Maintained by the PMER Team*
+*Maintained by the Nana Gamkrelidze*
